@@ -1,4 +1,4 @@
-module github.com/qosdil/x_clone_post_svc_gofiber
+module x_clone_post_svc_gofiber
 
 go 1.23.2
 
